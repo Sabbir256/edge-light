@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="EdgeLight/EdgeLight.vcxproj" />
+  <Project Path="EdgeLight/EdgeLight.vcxproj" Id="52aa09e1-7a2e-426b-bfd5-e50cd5e35a6b" />
 </Solution>
